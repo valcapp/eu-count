@@ -1093,3 +1093,34 @@ JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LB
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1617622486948	geckodriver	INFO	Listening on 127.0.0.1:57220
+1617622487799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1q/bpdx_bc93z33jkwmgzjk78_m0000gn/T/rust_mozprofileFcUvQj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617622494511	Marionette	INFO	Listening on port 57231
+1617622494615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617622494629	Marionette	ERROR	[19] No reply from Marionette:Register
+1617622559467	geckodriver	INFO	Listening on 127.0.0.1:57378
+1617622560483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1q/bpdx_bc93z33jkwmgzjk78_m0000gn/T/rust_mozprofile8at75A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617622563270	Marionette	INFO	Listening on port 57389
+1617622563385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617622563396	Marionette	ERROR	[19] No reply from Marionette:Register
+1617622572706	Marionette	INFO	Stopped listening on port 57389
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LBS9UPeyYo.O/d=1/ct=zgms/rs=AMjVe6jWev6o93AKX06KUnWyAgFxkWUcAA/m=viewer_base line 69 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617622708693	geckodriver	INFO	Listening on 127.0.0.1:57496
+1617622709671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/1q/bpdx_bc93z33jkwmgzjk78_m0000gn/T/rust_mozprofile7n2jZY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617622712306	Marionette	INFO	Listening on port 57507
+1617622712373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617622712404	Marionette	ERROR	[19] No reply from Marionette:Register
+1617622722640	Marionette	INFO	Stopped listening on port 57507
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LBS9UPeyYo.O/d=1/ct=zgms/rs=AMjVe6jWev6o93AKX06KUnWyAgFxkWUcAA/m=viewer_base line 69 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

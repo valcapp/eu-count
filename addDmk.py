@@ -10,7 +10,17 @@ if len(sys.argv)>1:
 # from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 # binary = FirefoxBinary("C:\ProgramData\Microsoft\Windows\Start Menu\Programs")
 
-gecko_path = os.getcwd()+'/geckodriver.exe'
+def pick_driver()->str:
+    driver = ''
+    if sys.platform.startswith('linux'):
+        driver = 'geckodriver.exe' 
+    elif sys.platform.startswith('darwin'):
+        driver = 'geckodriver-macos'
+    elif sys.platform.startswith('win32'):
+        driver = 'geckodriver-linux'
+    return driver
+
+gecko_path = os.path.join(os.getcwd(),'gecko',pick_driver())
 url = "https://docs.google.com/forms/d/e/1FAIpQLSfINznF_zML420lxzJC5NE-gizeczXILsHvnaHqNe8rL9Fa3w/viewform"
 success = "https://docs.google.com/forms/d/e/1FAIpQLSfINznF_zML420lxzJC5NE-gizeczXILsHvnaHqNe8rL9Fa3w/formResponse"
 dmk_options = [10,20,30,40,50,60,70,80,90,100,110,120,180]
