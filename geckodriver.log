@@ -1,0 +1,1095 @@
+1597077394080	geckodriver	INFO	Listening on 127.0.0.1:52117
+1597077729046	geckodriver	INFO	Listening on 127.0.0.1:52210
+1597077895750	geckodriver	INFO	Listening on 127.0.0.1:52307
+1597077898811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileRA1uNE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597077903261	Marionette	INFO	Listening on port 52315
+1597077903434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597077913370	Marionette	INFO	Stopped listening on port 52315
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597077928867	geckodriver	INFO	Listening on 127.0.0.1:52371
+1597077931899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileNi5qrx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597077935743	Marionette	INFO	Listening on port 52379
+1597077936057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597077945483	Marionette	INFO	Stopped listening on port 52379
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078007719	geckodriver	INFO	Listening on 127.0.0.1:52442
+1597078010749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilen1fNyA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078014506	Marionette	INFO	Listening on port 52450
+1597078014942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078025343	Marionette	INFO	Stopped listening on port 52450
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 7020, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078026260	geckodriver	INFO	Listening on 127.0.0.1:52506
+1597078029299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilexwwDGt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078032941	Marionette	INFO	Listening on port 52515
+1597078032986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078043555	Marionette	INFO	Stopped listening on port 52515
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078044560	geckodriver	INFO	Listening on 127.0.0.1:52568
+1597078047595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileO1xhGh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078051514	Marionette	INFO	Listening on port 52576
+1597078051781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078062345	Marionette	INFO	Stopped listening on port 52576
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078063190	geckodriver	INFO	Listening on 127.0.0.1:52630
+1597078066236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilegubBAG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078070171	Marionette	INFO	Listening on port 52638
+1597078070425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078080858	Marionette	INFO	Stopped listening on port 52638
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078081812	geckodriver	INFO	Listening on 127.0.0.1:52690
+1597078084849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileNvovid"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078088694	Marionette	INFO	Listening on port 52698
+1597078089049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078099687	Marionette	INFO	Stopped listening on port 52698
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078100556	geckodriver	INFO	Listening on 127.0.0.1:52751
+1597078103586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileBS0Kul"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078107362	Marionette	INFO	Listening on port 52759
+1597078107779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078118266	Marionette	INFO	Stopped listening on port 52759
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078119093	geckodriver	INFO	Listening on 127.0.0.1:52811
+1597078122114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileQcAgh3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078125831	Marionette	INFO	Listening on port 52819
+1597078126306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078136804	Marionette	INFO	Stopped listening on port 52819
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078137788	geckodriver	INFO	Listening on 127.0.0.1:52870
+1597078140837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileKMFgiV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078144746	Marionette	INFO	Listening on port 52878
+1597078144998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078155190	Marionette	INFO	Stopped listening on port 52878
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078156043	geckodriver	INFO	Listening on 127.0.0.1:52934
+1597078159072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileeSxT2C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078162555	Marionette	INFO	Listening on port 52942
+1597078162746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078172879	Marionette	INFO	Stopped listening on port 52942
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078173827	geckodriver	INFO	Listening on 127.0.0.1:52997
+1597078176849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileWcbynD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078180710	Marionette	INFO	Listening on port 53005
+1597078181037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078191523	Marionette	INFO	Stopped listening on port 53005
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 14720, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078192370	geckodriver	INFO	Listening on 127.0.0.1:53058
+1597078195403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileZrCUWR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078199324	Marionette	INFO	Listening on port 53066
+1597078199586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078210263	Marionette	INFO	Stopped listening on port 53066
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078211118	geckodriver	INFO	Listening on 127.0.0.1:53119
+1597078214144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile2guSD1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078217991	Marionette	INFO	Listening on port 53127
+1597078218320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078228783	Marionette	INFO	Stopped listening on port 53127
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 11132, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 11132, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078229759	geckodriver	INFO	Listening on 127.0.0.1:53183
+1597078232780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile7ry66C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078236606	Marionette	INFO	Listening on port 53191
+1597078237003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078247444	Marionette	INFO	Stopped listening on port 53191
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078248550	geckodriver	INFO	Listening on 127.0.0.1:53244
+1597078251603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile90zl63"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078255457	Marionette	INFO	Listening on port 53252
+1597078255786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078266343	Marionette	INFO	Stopped listening on port 53252
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078267265	geckodriver	INFO	Listening on 127.0.0.1:53305
+1597078270329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileOsIhG5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078273977	Marionette	INFO	Listening on port 53313
+1597078274007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078284368	Marionette	INFO	Stopped listening on port 53313
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078285336	geckodriver	INFO	Listening on 127.0.0.1:53363
+1597078288429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileFoXefX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078292254	Marionette	INFO	Listening on port 53371
+1597078292663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078303073	Marionette	INFO	Stopped listening on port 53371
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078303996	geckodriver	INFO	Listening on 127.0.0.1:53428
+1597078307024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileGylO51"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078310587	Marionette	INFO	Listening on port 53436
+1597078310707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078321233	Marionette	INFO	Stopped listening on port 53436
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 456, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078322172	geckodriver	INFO	Listening on 127.0.0.1:53488
+1597078325232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilesBE1PJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078329101	Marionette	INFO	Listening on port 53496
+1597078329405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078339930	Marionette	INFO	Stopped listening on port 53496
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078340780	geckodriver	INFO	Listening on 127.0.0.1:53551
+1597078343837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileAW4C4O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078347772	Marionette	INFO	Listening on port 53559
+1597078348004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078358353	Marionette	INFO	Stopped listening on port 53559
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 15820, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 15820, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078359456	geckodriver	INFO	Listening on 127.0.0.1:53613
+1597078362511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileYixoB0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078366230	Marionette	INFO	Listening on port 53621
+1597078366692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078377372	Marionette	INFO	Stopped listening on port 53621
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078378239	geckodriver	INFO	Listening on 127.0.0.1:53672
+1597078381300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileE3ulEx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078385162	Marionette	INFO	Listening on port 53680
+1597078385494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078396369	Marionette	INFO	Stopped listening on port 53680
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078397428	geckodriver	INFO	Listening on 127.0.0.1:53737
+1597078400479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile4te28C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078404368	Marionette	INFO	Listening on port 53745
+1597078404646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078415058	Marionette	INFO	Stopped listening on port 53745
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078415925	geckodriver	INFO	Listening on 127.0.0.1:53799
+1597078418950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilednIEgI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078422808	Marionette	INFO	Listening on port 53807
+1597078423144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078433722	Marionette	INFO	Stopped listening on port 53807
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 1640, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078434630	geckodriver	INFO	Listening on 127.0.0.1:53862
+1597078437703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileNVE2I9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078441658	Marionette	INFO	Listening on port 53870
+1597078441913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078452304	Marionette	INFO	Stopped listening on port 53870
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078453339	geckodriver	INFO	Listening on 127.0.0.1:53926
+1597078456387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile0J4IyX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078460161	Marionette	INFO	Listening on port 53935
+1597078460572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078470998	Marionette	INFO	Stopped listening on port 53935
+[Child 17424, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078471957	geckodriver	INFO	Listening on 127.0.0.1:53987
+1597078475017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilee5QRSV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078478791	Marionette	INFO	Listening on port 53995
+1597078479188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078490046	Marionette	INFO	Stopped listening on port 53995
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078490924	geckodriver	INFO	Listening on 127.0.0.1:54049
+1597078493965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileI1M9JC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078497736	Marionette	INFO	Listening on port 54057
+1597078498152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078508878	Marionette	INFO	Stopped listening on port 54057
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078509880	geckodriver	INFO	Listening on 127.0.0.1:54110
+1597078512943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile734nEl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078516892	Marionette	INFO	Listening on port 54118
+1597078517111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078527662	Marionette	INFO	Stopped listening on port 54118
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078528640	geckodriver	INFO	Listening on 127.0.0.1:54169
+1597078531688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileiEm7iZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078535718	Marionette	INFO	Listening on port 54177
+1597078535874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078546553	Marionette	INFO	Stopped listening on port 54177
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078547417	geckodriver	INFO	Listening on 127.0.0.1:54228
+1597078550461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileTOoKWY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078554286	Marionette	INFO	Listening on port 54236
+1597078554648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078564924	Marionette	INFO	Stopped listening on port 54236
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078565935	geckodriver	INFO	Listening on 127.0.0.1:54291
+1597078568965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilebpPCjF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078572843	Marionette	INFO	Listening on port 54299
+1597078573133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078583830	Marionette	INFO	Stopped listening on port 54299
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078584712	geckodriver	INFO	Listening on 127.0.0.1:54351
+1597078587783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile4gbOpc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078591501	Marionette	INFO	Listening on port 54359
+1597078591960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078602693	Marionette	INFO	Stopped listening on port 54359
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078603748	geckodriver	INFO	Listening on 127.0.0.1:54412
+1597078606784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilehnfiPR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078610508	Marionette	INFO	Listening on port 54420
+1597078610956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078621073	Marionette	INFO	Stopped listening on port 54420
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 16436, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078622094	geckodriver	INFO	Listening on 127.0.0.1:54472
+1597078625129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilekaT8PC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078628730	Marionette	INFO	Listening on port 54480
+1597078628791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078639369	Marionette	INFO	Stopped listening on port 54480
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078640348	geckodriver	INFO	Listening on 127.0.0.1:54533
+1597078643389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileo2nwBt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078647238	Marionette	INFO	Listening on port 54541
+1597078647557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078658127	Marionette	INFO	Stopped listening on port 54541
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078659100	geckodriver	INFO	Listening on 127.0.0.1:54594
+1597078662160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileETMRjO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078666050	Marionette	INFO	Listening on port 54602
+1597078666340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078676732	Marionette	INFO	Stopped listening on port 54602
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078677562	geckodriver	INFO	Listening on 127.0.0.1:54657
+1597078680605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileTZCVTS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078684462	Marionette	INFO	Listening on port 54665
+1597078684775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078695211	Marionette	INFO	Stopped listening on port 54665
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597078696190	geckodriver	INFO	Listening on 127.0.0.1:54717
+1597078699233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilecDHm9Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597078703101	Marionette	INFO	Listening on port 54725
+1597078703395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597078713070	Marionette	INFO	Stopped listening on port 54725
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597079146166	geckodriver	INFO	Listening on 127.0.0.1:54828
+1597079149214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileriXR2U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597079153347	Marionette	INFO	Listening on port 54837
+1597079153391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597079163860	Marionette	INFO	Stopped listening on port 54837
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.M5RT34OmmS0.O/d=1/ct=zgms/rs=AMjVe6g_0amzke1pkSa5NOyWwc-vemLhSQ/m=viewer_base line 52 > eval, line 6: ReferenceError: chrome is not defined
+[Child 17240, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094388726	geckodriver	INFO	Listening on 127.0.0.1:55201
+1597094391787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilem6c1OK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094394400	Marionette	INFO	Listening on port 55209
+1597094394461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094404299	Marionette	INFO	Stopped listening on port 55209
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094404953	geckodriver	INFO	Listening on 127.0.0.1:55259
+1597094407982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile5JU4xl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094410385	Marionette	INFO	Listening on port 55267
+1597094410637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094420235	Marionette	INFO	Stopped listening on port 55267
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094420896	geckodriver	INFO	Listening on 127.0.0.1:55323
+1597094423954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilek8MI97"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094426397	Marionette	INFO	Listening on port 55331
+1597094426610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094436354	Marionette	INFO	Stopped listening on port 55331
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+[Child 4264, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 4264, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094436992	geckodriver	INFO	Listening on 127.0.0.1:55385
+1597094440051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileqYddBV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094442376	Marionette	INFO	Listening on port 55393
+1597094442697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094451643	Marionette	INFO	Stopped listening on port 55393
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094734831	geckodriver	INFO	Listening on 127.0.0.1:55453
+1597094737870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileZzFPyu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094740764	Marionette	INFO	Listening on port 55461
+1597094741022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094750987	Marionette	INFO	Stopped listening on port 55461
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094751627	geckodriver	INFO	Listening on 127.0.0.1:55515
+1597094754654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileU2lvgn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094757072	Marionette	INFO	Listening on port 55524
+1597094757313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094767159	Marionette	INFO	Stopped listening on port 55524
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094767933	geckodriver	INFO	Listening on 127.0.0.1:55578
+1597094770973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileLtQM0E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094773368	Marionette	INFO	Listening on port 55586
+1597094773632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094783556	Marionette	INFO	Stopped listening on port 55586
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094784215	geckodriver	INFO	Listening on 127.0.0.1:55640
+1597094787260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileYlTo0i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094789620	Marionette	INFO	Listening on port 55648
+1597094789916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094799693	Marionette	INFO	Stopped listening on port 55648
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094800360	geckodriver	INFO	Listening on 127.0.0.1:55701
+1597094803391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileHSGvaF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094805836	Marionette	INFO	Listening on port 55709
+1597094806059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094815794	Marionette	INFO	Stopped listening on port 55709
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094816535	geckodriver	INFO	Listening on 127.0.0.1:55765
+1597094819589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile8XvCTw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094822045	Marionette	INFO	Listening on port 55773
+1597094822249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094831827	Marionette	INFO	Stopped listening on port 55773
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+[Child 5240, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094832577	geckodriver	INFO	Listening on 127.0.0.1:55827
+1597094835631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileCXup8l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094838138	Marionette	INFO	Listening on port 55835
+1597094838296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094848172	Marionette	INFO	Stopped listening on port 55835
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+[Child 16028, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 16028, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094848772	geckodriver	INFO	Listening on 127.0.0.1:55885
+1597094851790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile7hoWBq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094854227	Marionette	INFO	Listening on port 55893
+1597094854452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094864381	Marionette	INFO	Stopped listening on port 55893
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094865011	geckodriver	INFO	Listening on 127.0.0.1:55948
+1597094868084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilem2kvpL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094870447	Marionette	INFO	Listening on port 55956
+1597094870737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094880376	Marionette	INFO	Stopped listening on port 55956
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094881000	geckodriver	INFO	Listening on 127.0.0.1:56011
+1597094884058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileSEsm8Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094886580	Marionette	INFO	Listening on port 56019
+1597094886710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094896604	Marionette	INFO	Stopped listening on port 56019
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+[Child 16852, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094897353	geckodriver	INFO	Listening on 127.0.0.1:56076
+1597094900402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileRBae1v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094902808	Marionette	INFO	Listening on port 56084
+1597094903045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094912888	Marionette	INFO	Stopped listening on port 56084
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597094913633	geckodriver	INFO	Listening on 127.0.0.1:56136
+1597094916677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile8GHssd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597094919125	Marionette	INFO	Listening on port 56144
+1597094919319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597094928096	Marionette	INFO	Stopped listening on port 56144
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.f8DfVKpXxBo.O/d=1/ct=zgms/rs=AMjVe6gQEnZPqrma5fZLJf9E9hTtoL5lTg/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574348781	geckodriver	INFO	Listening on 127.0.0.1:52814
+1597574351829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileGQghMh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574359450	Marionette	INFO	Listening on port 52822
+1597574359770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574370501	Marionette	INFO	Stopped listening on port 52822
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574371759	geckodriver	INFO	Listening on 127.0.0.1:52875
+1597574374769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileyIzT5p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574380170	Marionette	INFO	Listening on port 52883
+1597574380595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574391268	Marionette	INFO	Stopped listening on port 52883
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574392696	geckodriver	INFO	Listening on 127.0.0.1:52938
+1597574395729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile6fyApw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574401185	Marionette	INFO	Listening on port 52946
+1597574401504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574412029	Marionette	INFO	Stopped listening on port 52946
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574413418	geckodriver	INFO	Listening on 127.0.0.1:53001
+1597574416458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileLjItbn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574421955	Marionette	INFO	Listening on port 53009
+1597574422229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574432753	Marionette	INFO	Stopped listening on port 53009
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574434038	geckodriver	INFO	Listening on 127.0.0.1:53062
+1597574437070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile3LuJ4b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574442547	Marionette	INFO	Listening on port 53070
+1597574442871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574453457	Marionette	INFO	Stopped listening on port 53070
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574454885	geckodriver	INFO	Listening on 127.0.0.1:53125
+1597574457909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilelrsqP4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574463426	Marionette	INFO	Listening on port 53133
+1597574463717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574474310	Marionette	INFO	Stopped listening on port 53133
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597574475621	geckodriver	INFO	Listening on 127.0.0.1:53187
+1597574478685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile38sGMd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597574484178	Marionette	INFO	Listening on port 53195
+1597574484458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597574494126	Marionette	INFO	Stopped listening on port 53195
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+[Child 14080, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597664094052	geckodriver	INFO	Listening on 127.0.0.1:64609
+1597664097092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile48COJJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597664100774	Marionette	INFO	Listening on port 64617
+1597664101258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597664104153	Marionette	INFO	Stopped listening on port 64617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597665348732	geckodriver	INFO	Listening on 127.0.0.1:64856
+1597665351761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofilei6go4D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597665354500	Marionette	INFO	Listening on port 64864
+1597665354872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597665359138	Marionette	INFO	Stopped listening on port 64864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597665372588	geckodriver	INFO	Listening on 127.0.0.1:64921
+1597665375604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileQ6Lq4l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597665377959	Marionette	INFO	Listening on port 64931
+1597665378217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597665386246	Marionette	INFO	Stopped listening on port 64931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597668919487	geckodriver	INFO	Listening on 127.0.0.1:65301
+1597668922543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile11yEUX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597668926053	Marionette	INFO	Listening on port 65309
+1597668926165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597668934569	Marionette	INFO	Stopped listening on port 65309
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597668959237	geckodriver	INFO	Listening on 127.0.0.1:65369
+1597668962278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile2s3ljY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597668964982	Marionette	INFO	Listening on port 65377
+1597668965396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.-Bk01bqXTJs.O/d=1/ct=zgms/rs=AMjVe6jI67BmzIem89QzMwSxw5CR83HL6w/m=viewer_base line 53 > eval, line 6: ReferenceError: chrome is not defined
+1597668997684	Marionette	INFO	Stopped listening on port 65377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597669145191	geckodriver	INFO	Listening on 127.0.0.1:65523
+1597669148230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileDWdIh5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597669150821	Marionette	INFO	Listening on port 65533
+1597669150859	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1597669151193	Marionette	INFO	Stopped listening on port 65533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1617449008701	geckodriver	INFO	Listening on 127.0.0.1:50781
+1617449011805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileaglVE9"
+1617449038698	geckodriver	INFO	Listening on 127.0.0.1:50848
+1617449041797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileRCMylm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617449045425	Marionette	INFO	Listening on port 50856
+1617449045531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617449054911	Marionette	INFO	Stopped listening on port 50856
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LBS9UPeyYo.O/d=1/ct=zgms/rs=AMjVe6jWev6o93AKX06KUnWyAgFxkWUcAA/m=viewer_base line 69 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617450644513	geckodriver	INFO	Listening on 127.0.0.1:51280
+1617450647616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofile70cgEQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617450651041	Marionette	INFO	Listening on port 51288
+1617450651301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617450660501	Marionette	INFO	Stopped listening on port 51288
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LBS9UPeyYo.O/d=1/ct=zgms/rs=AMjVe6jWev6o93AKX06KUnWyAgFxkWUcAA/m=viewer_base line 69 > eval, line 6: ReferenceError: chrome is not defined
+[Child 10444, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617451768426	geckodriver	INFO	Listening on 127.0.0.1:51460
+1617451771474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\valca\\AppData\\Local\\Temp\\rust_mozprofileZsRUrJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617451774694	Marionette	INFO	Listening on port 51468
+1617451775117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617451784359	Marionette	INFO	Stopped listening on port 51468
+JavaScript error: https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en_GB.0LBS9UPeyYo.O/d=1/ct=zgms/rs=AMjVe6jWev6o93AKX06KUnWyAgFxkWUcAA/m=viewer_base line 69 > eval, line 6: ReferenceError: chrome is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
